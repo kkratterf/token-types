@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokens-bruecke/tokens-types"
+    "url": "git+https://github.com/al-dente-studio/tokens-types"
   },
   "keywords": [
     "figma",
@@ -15,9 +15,9 @@
   ],
   "author": "Figma",
   "license": "MIT License",
-  "homepage": "https://github.com/tokens-bruecke/tokens-types#readme",
+  "homepage": "https://github.com/al-dente-studio/tokens-types#readme",
   "devDependencies": {
-    "@tokens-bruecke/tokens-types": "git+https://github.com/tokens-bruecke/token-types.git",
+    "@tokens-bruecke/tokens-types": "git+https://github.com/al-dente-studio/token-types.git",
     "prettier": "^2.6.1"
   }
 }
