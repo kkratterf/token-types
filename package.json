@@ -1,0 +1,23 @@
+{
+  "name": "tokens-types",
+  "version": "1.0.1",
+  "description": "Typings DTCG",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokens-bruecke/tokens-types"
+  },
+  "keywords": [
+    "figma",
+    "plugin",
+    "typings"
+  ],
+  "author": "Figma",
+  "license": "MIT License",
+  "homepage": "https://github.com/tokens-bruecke/tokens-types#readme",
+  "devDependencies": {
+    "@tokens-bruecke/tokens-types": "git+https://github.com/tokens-bruecke/token-types.git",
+    "prettier": "^2.6.1"
+  }
+}
