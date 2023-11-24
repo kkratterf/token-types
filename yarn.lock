@@ -2,8 +2,8 @@
 # yarn lockfile v1
 
 
-"@tokens-bruecke/tokens-types@git+https://github.com/al-dente-studio/token-types.git":
-  "resolved" "git+ssh://git@github.com/al-dente-studio/token-types.git#a951d5ca17b7c7fd233bbdfaff4f80b83fea9a50"
+"@al-dente-studio/tokens-types@git+https://github.com/al-dente-studio/token-types.git":
+  "resolved" "git+ssh://git@github.com/al-dente-studio/token-types.git#b5f9fe2972df8b0056204b39994236168a0bf84c"
   "version" "1.0.1"
 
 "prettier@^2.6.1":
