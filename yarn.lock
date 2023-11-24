@@ -3,7 +3,8 @@
 
 
 "@al-dente-studio/tokens-types@git+https://github.com/al-dente-studio/token-types.git":
-  "resolved" "git+ssh://git@github.com/al-dente-studio/token-types.git#b5f9fe2972df8b0056204b39994236168a0bf84c"
+  "integrity" "sha512-iwrQQoAoBmbJCmVwxQ5rGtNjxP3M+TFE1yqtoPlxY8WpnWX+pHkWmiq38SJSRmOB8LVhbbyYSNQcpDQQWhQuXg=="
+  "resolved" "git+ssh://git@github.com/al-dente-studio/token-types.git"
   "version" "1.0.1"
 
 "prettier@^2.6.1":
