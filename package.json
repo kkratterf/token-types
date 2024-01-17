@@ -1,12 +1,12 @@
 {
-  "name": "@al-dente-studio/tokens-types",
+  "name": "@kkratterf/tokens-types",
   "version": "1.0.1",
   "description": "Typings DTCG",
   "main": "",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/al-dente-studio/tokens-types"
+    "url": "git+https://github.com/kkratterf/tokens-types"
   },
   "keywords": [
     "figma",
@@ -15,9 +15,9 @@
   ],
   "author": "Figma",
   "license": "MIT License",
-  "homepage": "https://github.com/al-dente-studio/tokens-types#readme",
+  "homepage": "https://github.com/kkratterf/tokens-types#readme",
   "devDependencies": {
-    "@al-dente-studio/tokens-types": "git+https://github.com/al-dente-studio/token-types.git",
+    "@kkratterf/tokens-types": "git+https://github.com/kkratterf/token-types.git",
     "prettier": "^2.6.1"
   }
 }

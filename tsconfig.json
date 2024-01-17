@@ -4,6 +4,6 @@
     "lib": ["es6"],
     "noEmit": true,
     "strict": true,
-    "typeRoots": ["./node_modules/@al-dente-studio"]
+    "typeRoots": ["./node_modules/@kkratterf"]
   }
 }
