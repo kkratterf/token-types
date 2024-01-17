@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kkratterf/tokens-types#readme",
   "devDependencies": {
     "@kkratterf/tokens-types": "git+https://github.com/kkratterf/token-types.git",
+    "@tokens-bruecke/tokens-types": "git+https://github.com/tokens-bruecke/token-types.git",
     "prettier": "^2.6.1"
   }
 }

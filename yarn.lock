@@ -6,6 +6,10 @@
   version "1.0.1"
   resolved "git+ssh://git@github.com/kkratterf/token-types.git#60c46a5b0d621f3504bcff8d7550dfa4fd628fcb"
 
+"@tokens-bruecke/tokens-types@git+https://github.com/tokens-bruecke/token-types.git":
+  version "1.4.0"
+  resolved "git+ssh://git@github.com/tokens-bruecke/token-types.git#1b1c4f127b46fda5ea66a5089ea05e9c2d46e45b"
+
 prettier@^2.6.1:
   version "2.8.8"
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.8.8.tgz"
